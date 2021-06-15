@@ -21,7 +21,7 @@ bot.onText(/\/showLatest/, (msg, match) => {
 
     const chatId = msg.chat.id;
     
-    bot.sendMessage(chatId, 'latest ads');
+    bot.sendMessage(chatId, 'Latest 10 ads:');
 });
 
 bot.on('message', (msg) => {
