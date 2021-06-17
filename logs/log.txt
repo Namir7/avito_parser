@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Новый i3-10100/16GB/M2-120Gb/GTX1050Ti/1Tb",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/novyy_i3-1010016gbm2-120gbgtx1050ti1tb_1751188451",
+		"price": "42999 руб.",
+		"imgLink": "https://20.img.avito.st/image/1/BWwHALaBqYVxpVuDAQRTR-OjrYOlo6mDwsCtg3GlW4Oxp6WBsaGpwQ",
+		"date": "8 часов назад"
+	},
+	{
+		"name": "Apple iMac 27 Custom (2019)",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/apple_imac_27_custom_2019_2170546138",
+		"price": "160000 руб.",
+		"imgLink": "https://41.img.avito.st/image/1/FOpX4LaBuAMhRUoFc7R1y7JDvAX1Q7gFkiC8BSFFSgXhR7QH4UG4Rw",
+		"date": "9 часов назад"
+	},
+	{
+		"name": "Компьютер полный комплект без видеокарты",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/kompyuter_polnyy_komplekt_bez_videokarty_2101866110",
+		"price": "29000 руб.",
+		"imgLink": "https://01.img.avito.st/image/1/JJHT5LaBiHilQXp-l8hNoCpHjH5xR4h-FiSMfqVBen5lQ4R8ZUWIPA",
+		"date": "6 часов назад"
+	},
+	{
+		"name": "Новый i3-9100/GTX-1050Ti/SSD-240Gb/8Gb/500GB",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/novyy_i3-9100gtx-1050tissd-240gb8gb500gb_2167115047",
+		"price": "39999 руб.",
+		"imgLink": "https://23.img.avito.st/image/1/isaRB7aBJi_notQpiRn7xnSkIikzpCYpVMciKeei1CknoCorJ6Ymaw",
+		"date": "4 часа назад"
+	},
+	{
+		"name": "Новый ryzen 5 2600/GTX-1060-6GB/16GB/SSD240Gb/1Tb",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/novyy_ryzen_5_2600gtx-1060-6gb16gbssd240gb1tb_2167540948",
+		"price": "55499 руб.",
+		"imgLink": "https://36.img.avito.st/image/1/6UmPR7aBRaD54rem0TSQKm3kQaYt5EWmSodBpvnit6Y54EmkOeZF5A",
+		"date": "4 часа назад"
+	},
+	{
+		"name": "Системный блок i5 4460, 8gb ddr3, gt630, 120ssd, 5",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/sistemnyy_blok_i5_4460_8gb_ddr3_gt630_120ssd_5_2148337415",
+		"price": "20000 руб.",
+		"date": "2 часа назад"
+	},
+	{
+		"name": "Новый Ryzen 5 2600/MSI-GTX 1050Ti/16GB/SSD-240",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/novyy_ryzen_5_2600msi-gtx_1050ti16gbssd-240_2167107414",
+		"price": "41999 руб.",
+		"date": "8 часов назад"
+	},
+	{
+		"name": "Apple iMac 27 Custom (2019)",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/apple_imac_27_custom_2019_2170546138",
+		"price": "160000 руб.",
+		"imgLink": "https://41.img.avito.st/image/1/FOpX4LaBuAMhRUoFc7R1y7JDvAX1Q7gFkiC8BSFFSgXhR7QH4UG4Rw",
+		"date": "9 часов назад"
+	},
+	{
+		"name": "Новый HP Ryzen 5 4600G/ 1660Super Гарантия",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/novyy_hp_ryzen_5_4600g_1660super_garantiya_2169397301",
+		"price": "75000 руб.",
+		"imgLink": "https://57.img.avito.st/image/1/JJJbLbaBiHstiHp9HwFfgL6OjH35joh9nu2MfS2Ien3tioR_7YyIPw",
+		"date": "6 дней назад"
+	},
+	{
+		"name": "Игровой 6 ядер / 12 GB / SSD",
+		"link": "avito.ru//novorossiysk/nastolnye_kompyutery/igrovoy_6_yader_12_gb_ssd_2137303467",
+		"price": "21000 руб.",
+		"imgLink": "https://90.img.avito.st/image/1/u4VukbaBF2wYNOVqFIvQzYoyE2rMMhdqq1ETahg05WrYNhto2DAXKA",
+		"date": "6 дней назад"
+	}
+]
